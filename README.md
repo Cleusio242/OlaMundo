@@ -2,5 +2,4 @@
 Segundo repositório versionado
 
 Repositório criado por PK.
-
-Alteração remota
+mudança remota
